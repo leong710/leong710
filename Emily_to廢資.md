@@ -1,7 +1,5 @@
 # Emily廢資專屬技能說明書_2021-09-17
 
-![unsplash 圖片](https://images.unsplash.com/photo-1573900941478-7cc800f708f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80)
-
 ## ● 操作環境介紹：
 >### 公用機使用說明：[目的] 遠端連入操作使用
 * 公用機電腦名稱：`hp07110p`
@@ -158,6 +156,8 @@
 ***
 * * *
 - - -
+
+![unsplash 圖片](https://images.unsplash.com/photo-1573900941478-7cc800f708f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80)
 
 [Google](https://www.google.com.tw/ 'title')
 
